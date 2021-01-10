@@ -38,6 +38,7 @@ For this analysis we used the
 
 
 ![here](/Resources/VBA%20performance%202018.png)
+
 ![here](/Resources/VBA_Challenge_2018.png)
 
 
