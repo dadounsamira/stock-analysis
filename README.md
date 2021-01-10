@@ -37,11 +37,11 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 For this analysis we used the same methods, the graphics shows that the green energy industry crashed in 2018 and that all stocks went down except ENPH and RUN who outperformed well.
 
 
-![here](/Resources/VBP%20performance%202018.PNG)
+![here](/Resources/VBP%20performance%202018.png)
 
 ![here](/Resources/VBA_Challenge_2018.png)
 
-DAQO energy stpck
+DAQO energy stock
 
 
 
