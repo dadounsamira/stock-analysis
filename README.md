@@ -8,28 +8,21 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 
 
 ## Results
-
+Steve's parents believe that if a stock is traded often, the price will accurately reflect the value of the stock. So to visualize the stock performance and to measure how actively DQ was traded , we created spreadsheet and applied the following fields :
+*year
+*Total Daily Volume
+*Return 
+If we sum up all of the daily volume for each stock, we'll have the yearly volume and a rough idea of how often it gets traded.
+to do so , we used loops to to calculate the total daily volume.
 
 
 ### the stock performance in  2017
 
-To visualize campaign outcomes based on Launch date, a pivot table and graphing were created based on kickstarter worksheet, applying the following fields :
 
-*Parent category and years in filter
 
-*Outcomes in the columns
 
-*Outcomes in the Values
 
-*Date created conversion in Rows
-
-*the parent category is filtred on theater
-
-*The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order
-
-*A line chart is created showing the number of successful, failed, or canceled projects by month
-
-here is the graphic that shows the successful, canceled and failed campaign based on the month of launch, best time to launch fundraising is between Apil and August.
+here is the graphic that shows .
 
 
 ![here](/resources/Theater_Outcomes_vs_Launch.png)
