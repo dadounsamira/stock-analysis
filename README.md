@@ -54,13 +54,33 @@ DAQO stocks did not perform well in 2018.
 
 ### What are the advantages or disadvantages of refactoring code?
 
-The graphic Outcomes by Launch Date shows that most successful projects are launched in May and June, May being the pick month, two factors explains this trend the weather and the end of tax return, as the weather get nicer people tend to be more joyful and more willing to put money in fundraising especially after getting some tax return.
-Also to note that December is the worst month to launch a project as the failed and successful project tends to be in same level thats because of christmas, people tends to spend a lot of money during christmas.
+Code Refactoring is a way of restructuring and optimizing existing code without changing its behavior. It is a way to improve the code quality.
+
+Code Refactoring should not be done just any time. 
+
+Code should be refactored on the below points,
+Chances of Enhancement are high
+If modules have chances to add new features or functionalities then make sure design and current code is good and following Open Close Principle
+Code Smell is Detected
+Codes are written badly in some cases, and so many bugs are raised. In this case, fixing of bugs take too much effort. So, the root cause of bugs can be code smell. So, before fixing bugs code should be refactored.
+Refactoring Improves the Design of Software
+Refactoring Makes Software Easier to Understand
+Refactoring Helps Finding Bugs
+Refactoring Helps Programming Faster if Delivery Deadline is near.
+
+Code should not  be refactored on the below points,
+The cost of refactoring is higher than rewriting the code from scratch.
+If you don't have the time to test the refactored code before release. It can introduce bugs. 
+Stable code should not be refactored.
+
+
+
 
 ### How do these pros and cons apply to refactoring the original VBA script? 
 
-The dateset shows that there is a higher probability of successful projects lower the goal is however there is higher probability of successful funding projects with a goal between 20000 and 35000 and projects above 40000.
-this might lead Louise to conclude that for smaller project it might be neccessary to try attracting a type of range of the population people with small income, student in art,.... and project with higher goals need to be directed toward middle higher income population.
 
+In this challenge, we refactored the Module 2 solution code to loop through all the data one time in order to collect the same information.
+It helped gain in time by making VBA run faster and englobe all the information needed and explain the finding and also clean and edit the code and make it presentable and readable.
 
+The cons to refactoring the original VBA  was the safety, as beginner I was not feeling confident to refactor and screw all data 
 
