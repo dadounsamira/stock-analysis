@@ -27,7 +27,7 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
  Here is the graphic that shows .
 
 
-![here](/stock-analysis/Resources/VBA_Challenge_2017.png)
+![here](/Resources/VBA_Challenge_2017.png)
 
 
 ### the stock performance in  2018
