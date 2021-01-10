@@ -29,27 +29,16 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 ![here](/Resources/VBA%20performance%202017.png)
 
 
-
-
-
-
-
-
-
-
 ![here](/Resources/VBA_Challenge_2017.png)
 
 
 ### the stock performance in  2018
 
-For this analysis we used the function COUNTIFS to visualize  the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis, applying the following fields:
-* Goal, Number Successful,Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed and Percentage Canceled in columns 
-* Amount ranging between less than 1000 and greater than 50000 in rows so  so projects can be grouped based on their goal amount
-
-The formula for the Countifs is : =COUNTIFS(kickstarter_challenge!D:D, "<=1000", kickstarter_challenge!F:F,"successful",kickstarter_challenge!R:R,"plays")
+For this analysis we used the
 
 
-![here](/resources/Outcomes_vs_Goals.png)
+![here](/Resources/VBA%20performance%202018.png)
+![here](/Resources/VBA_Challenge_2018.png)
 
 
 ### Challenges and Difficulties Encountered
