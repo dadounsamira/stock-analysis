@@ -1,28 +1,30 @@
 # stock-analysis
 
 
-## Overview of project. 
+## Overview of project
 
 Steve parent's are very passionate about grenne energy and decided to invest all their money in DAQO New Energy Corpwithout doing much research, Stve as new graduate and and finance passionate want to analyse handful of green energy stocks in addition to DAQO stocks to  diverify the portfolio and mitigate the risk of putting all the money in one product.
 Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
+ 
+ ### Data and methodology
+ 
+ All the data used in this analysis  is taken from the WALL STREET. The sample include 12 companies and covers 2 yeasr 2017 and 2018.
+ 
+ Steve's parents believe that if a stock is traded often, the price will accurately reflect the value of the stock. So to visualize the stock performance and to measure how      actively DQ was traded , we created spreadsheet and applied the following fields :Year,Total Daily Volume and Return.
+
+ If we sum up all of the daily volume for each stock, we'll have the yearly volume and a rough idea of how often it gets traded.
+ To do so , we used loops to to calculate the total daily volume.
 
 
 ## Results
-Steve's parents believe that if a stock is traded often, the price will accurately reflect the value of the stock. So to visualize the stock performance and to measure how actively DQ was traded , we created spreadsheet and applied the following fields :
-*year
-*Total Daily Volume
-*Return 
-If we sum up all of the daily volume for each stock, we'll have the yearly volume and a rough idea of how often it gets traded.
-to do so , we used loops to to calculate the total daily volume.
-
 
 ### the stock performance in  2017
 
+ At first look the table below reveals that all stocks (except TERP) performed well and reflected  positive average return. DQ stock outperformed all the other stock.
 
+ We can conclude that 2017 was a great year for the green energy industry.
 
-
-
-here is the graphic that shows .
+ Here is the graphic that shows .
 
 
 ![here](/resources/Theater_Outcomes_vs_Launch.png)
