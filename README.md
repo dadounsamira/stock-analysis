@@ -4,10 +4,8 @@
 ## Overview of project. 
 
 Steve parent's are very passionate about grenne energy and decided to invest all their money in DAQO New Energy Corpwithout doing much research, Stve as new graduate and and finance passionate want to analyse handful of green energy stocks in addition to DAQO stocks to  diverify the portfolio and mitigate the risk of putting all the money in one product.
+Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 
-
-
-Included the source of this dataset [here](/Kickstarter_Challenge .xlsx.zip)
 
 ## Results
 
