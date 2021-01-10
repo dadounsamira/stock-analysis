@@ -24,7 +24,7 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 
  We can conclude that 2017 was a great year for the green energy industry.
 
- Here is the graphic that shows .
+ Here is the graphics that shows the results .
  
 ![here](/Resources/VBA%20performance%202017.png)
 
@@ -34,12 +34,14 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 
 ### the stock performance in  2018
 
-For this analysis we used the
+For this analysis we used the same methods, the graphics shows that the green energy industry crashed in 2018 and that all stocks went down except ENPH and RUN who outperformed well.
 
 
 ![here](/Resources/VBP%20performance%202018.PNG)
 
 ![here](/Resources/VBA_Challenge_2018.png)
+
+DAQO energy stpck
 
 
 ### Challenges and Difficulties Encountered
