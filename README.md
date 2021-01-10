@@ -25,7 +25,7 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
  We can conclude that 2017 was a great year for the green energy industry.
 
  Here is the graphic that shows .
-
+![here](/Resources/VBA performance.png)
 
 ![here](/Resources/VBA_Challenge_2017.png)
 
