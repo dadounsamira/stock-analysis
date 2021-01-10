@@ -44,6 +44,7 @@ For this analysis we used the same methods, the graphics shows that the green en
 DAQO energy stpck
 
 
+
 ### Challenges and Difficulties Encountered
 
 I encountered some difficulties producing some visualizations because of my lack of knowledge in excel but the extra sessions with the assistant teacher helped me solve my issues, also had hard time getting familiar with github. 
