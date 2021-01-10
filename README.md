@@ -37,7 +37,7 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 For this analysis we used the
 
 
-![here](/Resources/VBA%20performance%202018.png)
+![here](/Resources/VBP%20performance%202018.PNG)
 
 ![here](/Resources/VBA_Challenge_2018.png)
 
