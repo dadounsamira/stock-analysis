@@ -35,6 +35,9 @@ Included the source of this dataset [here](/VBA_Challenge.xlsm.xlsm)
 ### the stock performance in  2018
 
 For this analysis we used the same methods, the graphics shows that the green energy industry crashed in 2018 and that all stocks went down except ENPH and RUN who outperformed well.
+ENPH lost few point but stayed strong during the two years, RUN outperformed from the year 2017.
+
+DAQO stocks did not perform well in 2018.
 
 
 ![here](/Resources/VBA%20performnce%202018.png)
@@ -42,17 +45,11 @@ For this analysis we used the same methods, the graphics shows that the green en
 
 ![here](/Resources/VBA_Challenge_2018.png)
 
-DAQO energy stock
 
 
 
-### Challenges and Difficulties Encountered
 
-I encountered some difficulties producing some visualizations because of my lack of knowledge in excel but the extra sessions with the assistant teacher helped me solve my issues, also had hard time getting familiar with github. 
-
-
-
-## Results
+## Summary
 
 
 ### What are the advantages or disadvantages of refactoring code?
